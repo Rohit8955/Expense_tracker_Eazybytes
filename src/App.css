@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(247, 243, 243);
+    display: flex;
+    justify-content: center;
+    /* margin-top: 200px; */
+}
+
+.boxshadow{
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+}
